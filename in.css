@@ -1,0 +1,83 @@
+body{
+  text-align: center;
+  margin:0;
+}
+.cl{
+  font-family: 'Pacifico', cursive;
+  background-color:orange;
+}
+.b{
+  position: absolute;
+  bottom: 400px;
+  left: 300px;
+}
+.c{
+  margin-top:145px;
+  position:relative;
+  top:40px;
+
+}
+.tl{
+  margin-bottom:45px;
+  margin-left:0;
+
+}
+.tr{
+  margin-bottom:45px;
+}
+.d{
+  position: absolute;
+  bottom: 350px;
+  left: 1050px;
+}
+h1{
+  font-size: 30px;
+}
+p{
+  font-size:30px;
+}
+.r{
+  position: absolute;
+  border:500px;
+  left: 900px;
+}
+.ho{
+position:relative;
+bottom:60px
+}
+.hor{
+  border:dotted grey 10px;
+  border-bottom: 0;
+  width:100px;
+}
+.sk{
+  color: purple;
+  font-size: 50px;
+}
+.pd{
+  color: purple;
+}
+.hello{
+  background-color:lightyellow;
+position: relative;
+bottom: 10px;
+}
+.my-skill{
+  width: 50%;
+  text-align: left;
+  margin: 100px auto 100px auto;
+  line-height: 2.2rem;
+}
+.skil{
+  float: left;
+  margin-right: 30px;
+}
+.cont{
+  font-style: italic;
+  font-size: 50px;
+  color: red;
+
+}
+.contact{
+  margin: 20px;
+}

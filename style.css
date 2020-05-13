@@ -1,0 +1,30 @@
+body{
+  margin:0;
+}
+h1
+{
+  margin-top:0;
+}
+  .top{
+  background-color:red;
+height:150px;
+width:150px;
+position: absolute;
+left:150px;
+top:150px;
+
+}
+.middle
+{
+  background-color:blue;
+  height:150px;
+  width:150px;
+position: absolute;
+}
+.bottom{background-color:yellow;
+height:150px;
+width:150px;
+position: absolute;
+left:300px;
+top:300px;
+}
